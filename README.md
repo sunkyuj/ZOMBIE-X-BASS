@@ -23,3 +23,12 @@
 --- 
 
 테크노페럿 666버전 사용
+
+---
+
+![image](https://user-images.githubusercontent.com/38223044/160002180-c667fe0b-6d8a-4a26-a17c-4bc03f29fab3.png)
+![image](https://user-images.githubusercontent.com/38223044/160002237-cbc2a6cc-5685-49ca-af1d-afd66822f111.png)
+![image](https://user-images.githubusercontent.com/38223044/160002287-8c2bfeb1-8747-4eb4-9fa4-1e1b69190531.png)
+![image](https://user-images.githubusercontent.com/38223044/160002318-d809ee33-57d7-4c71-a4f5-87cd817b422b.png)
+
+
